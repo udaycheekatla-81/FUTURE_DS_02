@@ -1,4 +1,4 @@
-# Task-1:Customer Retention & Churn Analysis 
+# Task-2:Customer Retention & Churn Analysis 
 
 Focuses on analyzing customer retention patterns and churn behavior using Python. The dashboard provides insights into customer retention trends, churn rates across subscription plans, support ticket activity, and payment delay distributions to help businesses improve customer loyalty and reduce churn.
 
